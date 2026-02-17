@@ -4,9 +4,6 @@ A collection of Jupyter notebooks exploring various quantitative finance topics 
 
 ##  Contents
 
-### Derivatives Pricing
-- **Asian Option Pricer** - Monte Carlo simulation with control variate variance reduction (73.8% variance reduction achieved)
-
 ### Portfolio Optimization
 - **Markowitz Efficient Frontier** - Monte Carlo simulation + analytical optimization (scipy) to maximize Sharpe ratio and trace the full efficient frontier
 
