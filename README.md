@@ -4,13 +4,14 @@ A collection of Jupyter notebooks exploring various quantitative finance topics 
 
 ##  Contents
 
-### Time Series Analysis
-- **EWMA** - Exponentially Weighted Moving Average for volatility estimation
-- **ETS** - Error, Trend, Seasonality models for forecasting
-- **ARIMA** - AutoRegressive Integrated Moving Average modeling
+### Derivatives Pricing
+- **Asian Option Pricer** - Monte Carlo simulation with control variate variance reduction (73.8% variance reduction achieved)
 
-### Stock Market Analysis
-- Returns distribution and correlation studies, Analysis and visualization of stock market data
+### Portfolio Optimization
+- **Markowitz Efficient Frontier** - Monte Carlo simulation + analytical optimization (scipy) to maximize Sharpe ratio and trace the full efficient frontier
+
+### Time Series Analysis
+- **ARIMA** - Stationarity testing (ADF), ACF/PACF identification, forecasting with train/test validation
 
 ##  Technologies
 
