@@ -4,9 +4,14 @@ A collection of Jupyter notebooks exploring various quantitative finance topics 
 
 ##  Contents
 
+### Greeks
+- Greeks explained
+- Greeks PnL vs real PnL explained (Delta, Gamma, Vega, Theta, Rho)
+
+### Portfolio Optimisation
+- Markowitz efficient frontier
+
 ### Time Series Analysis
-- **EWMA** - Exponentially Weighted Moving Average for volatility estimation
-- **ETS** - Error, Trend, Seasonality models for forecasting
 - **ARIMA** - AutoRegressive Integrated Moving Average modeling
 
 ### Stock Market Analysis
